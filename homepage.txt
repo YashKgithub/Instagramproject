@@ -1,2 +1,3 @@
 This is Homepag
-Added new features 
+Added new features
+bug fix by me 
